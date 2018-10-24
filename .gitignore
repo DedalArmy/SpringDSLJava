@@ -6,11 +6,9 @@
 *.project
 
 #exclude generated directories
-org.xtext.spring.springConfigJava/src-gen/org/xtext/*
-org.xtext.spring.springConfigJava/xtend-gen/org/xtext/*
-org.xtext.spring.springConfigJava/.launch/
-org.xtext.spring.springConfigJava/.settings/
-
+org.xtext.spring.springConfigJava/src-gen/org/*
+org.xtext.spring.springConfigJava/xtend-gen/org/*
+#
 #Log file
 *.log
 
