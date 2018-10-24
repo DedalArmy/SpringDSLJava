@@ -8,6 +8,8 @@
 #exclude generated directories
 org.xtext.spring.springConfigJava/src-gen/org/xtext/*
 org.xtext.spring.springConfigJava/xtend-gen/org/xtext/*
+org.xtext.spring.springConfigJava/.launch/
+org.xtext.spring.springConfigJava/.settings/
 
 #Log file
 *.log
