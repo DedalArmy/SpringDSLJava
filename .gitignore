@@ -1,11 +1,27 @@
 # Compiled class file
 *.class
 
+#Eclipse files
+.classpath
+.project
+
+#Exclude directories auto generated
+org.xtext.spring.springConfigJava/xtend-gen/org/*
+org.xtext.spring.springConfigJava/src-gen/org/*
+org.xtext.spring.springConfigJava/model/generated/*
+
+org.xtext.spring.springConfigJava.ide/xtend-gen/org/*
+org.xtext.spring.springConfigJava.ide/src-gen/org/*
+
+org.xtext.spring.springConfigJava.tests/src-gen/org/*
+org.xtext.spring.springConfigJava.tests/xtend-gen/org/*
+
+org.xtext.spring.springConfigJava.ui/src-gen/org/*
+
+
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
