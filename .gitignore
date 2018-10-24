@@ -1,10 +1,6 @@
 # Compiled class file
 *.class
 
-#Eclipse files
-.classpath
-.project
-
 #Exclude directories auto generated
 org.xtext.spring.springConfigJava/xtend-gen/org/*
 org.xtext.spring.springConfigJava/src-gen/org/*
